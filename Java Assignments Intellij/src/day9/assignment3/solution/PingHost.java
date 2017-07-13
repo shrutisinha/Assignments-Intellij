@@ -1,6 +1,6 @@
 /*Write a java function that will ping any host ( given as input ) and computes the median of
  * the time taken to ping. Use the system ping utility, do not use any deprecated methods.
- * Created by zemoso on 11/7/17.
+ * Created by Shruti on 11/7/17.
  */
 package day9.assignment3.solution;
 import java.io.BufferedReader;
