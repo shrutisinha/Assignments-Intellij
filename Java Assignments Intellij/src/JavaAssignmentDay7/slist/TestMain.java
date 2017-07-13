@@ -58,6 +58,12 @@ public class TestMain {
 		it.add("Banana");
 		print("Add: Banana");
 		print(s);
+		it.add("");
+		print("Add:");
+		print(s);
+		it.add(null);
+		print("Add: null");
+		print(s);
 		SList<String> sl=new SList<>();
 	}
 }

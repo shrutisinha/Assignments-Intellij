@@ -39,6 +39,7 @@ class SListIterator<T> {
 	*@param item Link that has to be added.
 	*/
 	void add(T item) {
+		if(item==null)return;
 		current.next = new Link<>(item, current.next);
 		current = current.next;
 		//count++;
