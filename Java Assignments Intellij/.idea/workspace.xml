@@ -1,101 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="606f43b1-8e4d-464a-afa4-c378fce7ba82" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Day 9/day9/assignment1/FindPath.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Day 9/day9/assignment1/SearchFile.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Day 9/day9/assignment2/Alphabets.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Day 9/day9/assignment2/CheckAlphabets.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Day 9/day9/assignment2/CheckAlphabetsTest.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Day 9/day9/assignment3/PingHost.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Day 9/day9/assignment3/Pings.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Day 9/day9/assignment4/KYC.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Day 9/day9/assignment4/KYCFilling.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Day9/day9/assignment1/FindPath.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Day9/day9/assignment1/SearchFile.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Day9/day9/assignment2/Alphabets.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Day9/day9/assignment2/CheckAlphabets.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Day9/day9/assignment2/CheckAlphabetsTest.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Day9/day9/assignment3/PingHost.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Day9/day9/assignment3/Pings.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Day9/day9/assignment4/KYC.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Day9/day9/assignment4/KYCFilling.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Java Assignments/day9/assignment2/CheckAlphabets.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/JavaAssignments/JavaAssignmentDay2/question2/OverloadedConst.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/JavaAssignments/JavaAssignmentDay2/question2/Question2.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/JavaAssignments/JavaAssignmentDay2/question3/ObjArr.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/JavaAssignments/JavaAssignmentDay2/question3/Question3.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/JavaAssignments/JavaAssignmentDay2/question4/Question4.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/JavaAssignments/JavaAssignmentDay2/vampire_number/VampireNumber.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/JavaAssignments/JavaAssignmentDay2/vampire_number/VampireNumberClass.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/JavaAssignments/JavaAssignmentDay3/question1/Gerbil.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/JavaAssignments/JavaAssignmentDay3/question1/Hamster.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/JavaAssignments/JavaAssignmentDay3/question1/Mouse.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/JavaAssignments/JavaAssignmentDay3/question1/Question1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/JavaAssignments/JavaAssignmentDay3/question1/Rodent.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/JavaAssignments/JavaAssignmentDay3/question2/Bicycle.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/JavaAssignments/JavaAssignmentDay3/question2/Cycle.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/JavaAssignments/JavaAssignmentDay3/question2/Question2.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/JavaAssignments/JavaAssignmentDay3/question2/Tricycle.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/JavaAssignments/JavaAssignmentDay3/question2/Unicycle.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/JavaAssignments/JavaAssignmentDay3/question3/Interface1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/JavaAssignments/JavaAssignmentDay3/question3/Interface2.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/JavaAssignments/JavaAssignmentDay3/question3/Interface3.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/JavaAssignments/JavaAssignmentDay3/question3/Interface4.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/JavaAssignments/JavaAssignmentDay3/question3/Question3.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/JavaAssignments/JavaAssignmentDay3/question3/SuperClass.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/JavaAssignments/JavaAssignmentDay3/question4/Bicycle.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/JavaAssignments/JavaAssignmentDay3/question4/BicycleFactory.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/JavaAssignments/JavaAssignmentDay3/question4/Cycle.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/JavaAssignments/JavaAssignmentDay3/question4/CycleFactory.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/JavaAssignments/JavaAssignmentDay3/question4/Question4.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/JavaAssignments/JavaAssignmentDay3/question4/Tricycle.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/JavaAssignments/JavaAssignmentDay3/question4/TricycleFactory.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/JavaAssignments/JavaAssignmentDay3/question4/Unicycle.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/JavaAssignments/JavaAssignmentDay3/question4/UnicycleFactory.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/JavaAssignments/JavaAssignmentDay3/question5/Outer$Inner.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/JavaAssignments/JavaAssignmentDay3/question5/Outer.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/JavaAssignments/JavaAssignmentDay3/question5/Outer2$Inner2.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/JavaAssignments/JavaAssignmentDay3/question5/Outer2.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/JavaAssignments/JavaAssignmentDay3/question5/Question5.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/JavaAssignments/JavaAssignmentDay4/exception_handle/Exception1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/JavaAssignments/JavaAssignmentDay4/exception_handle/Exception2.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/JavaAssignments/JavaAssignmentDay4/exception_handle/Exception3.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/JavaAssignments/JavaAssignmentDay4/exception_handle/ExceptionHandle.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/JavaAssignments/JavaAssignmentDay4/exception_handle/ThrowsException.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/JavaAssignments/JavaAssignmentDay5/strings_problem/solution/Main.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/JavaAssignments/JavaAssignmentDay5/strings_problem/solution/Regex.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/JavaAssignments/JavaAssignmentDay5/strings_problem/test/RegexTest.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/JavaAssignments/JavaAssignmentDay7/slist/Link.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/JavaAssignments/JavaAssignmentDay7/slist/SList.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/JavaAssignments/JavaAssignmentDay7/slist/SListIterator.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/JavaAssignments/JavaAssignmentDay7/slist/TestMain.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/JavaAssignments/JavaAssignmentDay8/char_counter/CharCounter.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/JavaAssignments/JavaAssignmentDay8/char_counter/ReadWrite.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/JavaAssignments/day9/assignment1/solution/FindPath.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/JavaAssignments/day9/assignment1/solution/SearchFile.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/JavaAssignments/day9/assignment1/test/FindPathTest.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/JavaAssignments/day9/assignment2/solution/Alphabets.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/JavaAssignments/day9/assignment2/solution/CheckAlphabets.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/JavaAssignments/day9/assignment2/test/CheckAlphabetsTest.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/JavaAssignments/day9/assignment3/solution/PingHost.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/JavaAssignments/day9/assignment3/solution/Pings.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/JavaAssignments/day9/assignment3/test/PingsTest.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/JavaAssignments/day9/assignment4/solution/KYC.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/JavaAssignments/day9/assignment4/solution/KYCFilling.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/JavaAssignments/day9/assignment4/test/KYCFillingTest.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/JavaAssignments/default_initialization_assignment/shruti/assignment/data/Data.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/JavaAssignments/default_initialization_assignment/shruti/assignment/main/Main.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/JavaAssignments/default_initialization_assignment/shruti/assignment/singleton/Singleton.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/check/check/kycf/FormDateRange.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/check/check/kycf/KYCDateRange.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/JavaAssignments/JavaAssignmentDay8/CharacterFreq.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/JavaAssignments/JavaAssignmentDay8/README" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/JavaAssignments/JavaAssignmentDay8/TextFile.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/JavaAssignments/JavaAssignmentDay8/char_counter/CharacterFreq.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/JavaAssignments/JavaAssignmentDay8/char_counter/JavaAssignmentDay8/char_counter/CharacterFreq.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/JavaAssignments/JavaAssignmentDay8/char_counter/JavaAssignmentDay8/char_counter/TextFile.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/JavaAssignments/JavaAssignmentDay8/char_counter/TextFile.txt" />
+    <list default="true" id="606f43b1-8e4d-464a-afa4-c378fce7ba82" name="Default" comment="check">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/JavaAssignments/JavaAssignmentDay2/vampire_number/solution/FindVampireNumbers.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/JavaAssignments/JavaAssignmentDay2/vampire_number/solution/VampireNumbers.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/JavaAssignments/JavaAssignmentDay2/vampire_number/test/FindVampireNumbersTest.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../.idea/Intellij Assignments.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/JavaAssignmentDay2/vampire_number/solution/FindVampireNumbers.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/JavaAssignmentDay2/vampire_number/solution/VampireNumbers.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/JavaAssignmentDay2/vampire_number/test/FindVampireNumbersTest.java" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JavaAssignments/JavaAssignmentDay2/vampire_number/VampireNumber.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JavaAssignments/JavaAssignmentDay2/vampire_number/VampireNumberClass.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/JavaAssignmentDay2/vampire_number/VampireNumber.java" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/JavaAssignments/day9/assignment1/solution/FindPath.class" afterPath="$PROJECT_DIR$/out/production/JavaAssignments/day9/assignment1/solution/FindPath.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/JavaAssignments/day9/assignment1/solution/SearchFile.class" afterPath="$PROJECT_DIR$/out/production/JavaAssignments/day9/assignment1/solution/SearchFile.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/JavaAssignments/day9/assignment1/test/FindPathTest.class" afterPath="$PROJECT_DIR$/out/production/JavaAssignments/day9/assignment1/test/FindPathTest.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/JavaAssignments/day9/assignment2/test/CheckAlphabetsTest.class" afterPath="$PROJECT_DIR$/out/production/JavaAssignments/day9/assignment2/test/CheckAlphabetsTest.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/JavaAssignments/day9/assignment3/test/PingsTest.class" afterPath="$PROJECT_DIR$/out/production/JavaAssignments/day9/assignment3/test/PingsTest.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/day9/assignment1/solution/FindPath.java" afterPath="$PROJECT_DIR$/src/day9/assignment1/solution/FindPath.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/day9/assignment1/solution/SearchFile.java" afterPath="$PROJECT_DIR$/src/day9/assignment1/solution/SearchFile.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/day9/assignment1/test/FindPathTest.java" afterPath="$PROJECT_DIR$/src/day9/assignment1/test/FindPathTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/day9/assignment2/test/CheckAlphabetsTest.java" afterPath="$PROJECT_DIR$/src/day9/assignment2/test/CheckAlphabetsTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/day9/assignment3/test/PingsTest.java" afterPath="$PROJECT_DIR$/src/day9/assignment3/test/PingsTest.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -108,33 +38,45 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Regex.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/JavaAssignmentDay5/strings_problem/solution/Regex.java">
+      <file leaf-file-name="FindPathTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/day9/assignment1/test/FindPathTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="21" column="8" lean-forward="false" selection-start-line="21" selection-start-column="8" selection-end-line="21" selection-end-column="8" />
+            <state relative-caret-position="126">
+              <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
               <folding>
-                <element signature="imports" expanded="false" />
+                <element signature="imports" expanded="true" />
+                <element signature="e#500#501#0" expanded="true" />
+                <element signature="e#560#561#0" expanded="true" />
+                <element signature="e#712#713#0" expanded="true" />
+                <element signature="e#770#771#0" expanded="true" />
+                <element signature="e#925#926#0" expanded="true" />
+                <element signature="e#984#985#0" expanded="true" />
+                <element signature="e#1028#1029#0" expanded="true" />
+                <element signature="e#1084#1085#0" expanded="true" />
+                <element signature="e#1128#1129#0" expanded="true" />
+                <element signature="e#1192#1193#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ReadWrite.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/JavaAssignmentDay8/char_counter/ReadWrite.java">
+      <file leaf-file-name="SearchFile.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/day9/assignment1/solution/SearchFile.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="576">
-              <caret line="35" column="6" lean-forward="false" selection-start-line="35" selection-start-column="6" selection-end-line="35" selection-end-column="6" />
-              <folding />
+            <state relative-caret-position="198">
+              <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#1603#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CharCounter.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/JavaAssignmentDay8/char_counter/CharCounter.java">
+      <file leaf-file-name="FindVampireNumbersTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/JavaAssignmentDay2/vampire_number/test/FindVampireNumbersTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="162">
-              <caret line="21" column="14" lean-forward="false" selection-start-line="21" selection-start-column="14" selection-end-line="21" selection-end-column="14" />
+            <state relative-caret-position="18">
+              <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -142,78 +84,15 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/JavaAssignmentDay5/strings_problem/solution/Main.java">
+      <file leaf-file-name="FindPath.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/day9/assignment1/solution/FindPath.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="16" column="7" lean-forward="false" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="7" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SList.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/JavaAssignmentDay7/slist/SList.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="558">
-              <caret line="31" column="0" lean-forward="false" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Question3.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/JavaAssignmentDay3/question3/Question3.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="5" column="2" lean-forward="false" selection-start-line="5" selection-start-column="2" selection-end-line="5" selection-end-column="2" />
+            <state relative-caret-position="219">
+              <caret line="53" column="9" lean-forward="true" selection-start-line="53" selection-start-column="9" selection-end-line="53" selection-end-column="9" />
               <folding>
-                <element signature="e#950#951#0" expanded="true" />
-                <element signature="e#999#1000#0" expanded="true" />
+                <element signature="e#1962#1963#0" expanded="true" />
+                <element signature="e#1998#1999#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="VampireNumber.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/JavaAssignmentDay2/vampire_number/VampireNumber.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1008">
-              <caret line="57" column="4" lean-forward="false" selection-start-line="57" selection-start-column="4" selection-end-line="57" selection-end-column="4" />
-              <folding>
-                <element signature="e#1946#1947#0" expanded="true" />
-                <element signature="e#1976#1977#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CharCounter.class" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/out/production/JavaAssignments/JavaAssignmentDay8/char_counter/CharCounter.class">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="18" column="33" lean-forward="false" selection-start-line="18" selection-start-column="33" selection-end-line="18" selection-end-column="33" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ReadWrite.class" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/out/production/JavaAssignments/JavaAssignmentDay8/char_counter/ReadWrite.class">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="72">
-              <caret line="7" column="7" lean-forward="false" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TextFile.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/TextFile.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -241,7 +120,7 @@
     </dirStrings>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
@@ -251,15 +130,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/day9/assignment2/solution/Alphabets.java" />
-        <option value="$PROJECT_DIR$/src/day9/assignment2/test/CheckAlphabetsTest.java" />
-        <option value="$PROJECT_DIR$/src/day9/assignment3/solution/PingHost.java" />
-        <option value="$PROJECT_DIR$/src/day9/assignment4/solution/KYC.java" />
-        <option value="$PROJECT_DIR$/src/day9/assignment4/test/KYCFillingTest.java" />
-        <option value="$PROJECT_DIR$/src/day9/assignment4/solution/KYCFilling.java" />
-        <option value="$PROJECT_DIR$/src/default initialization assignment/Data.java" />
-        <option value="$PROJECT_DIR$/src/question4/Question4.java" />
-        <option value="$PROJECT_DIR$/src/default_initialization_assignment/Main.java" />
         <option value="$PROJECT_DIR$/src/default_initialization_assignment/Data.java" />
         <option value="$PROJECT_DIR$/src/default_initialization_assignmentshruti/assignment/singleton/Singleton.java" />
         <option value="$PROJECT_DIR$/src/default_initialization_assignment/Singleton.java" />
@@ -302,14 +172,23 @@
         <option value="$PROJECT_DIR$/src/JavaAssignmentDay7/slist/SList.java" />
         <option value="$PROJECT_DIR$/src/JavaAssignmentDay3/question3/Question3.java" />
         <option value="$PROJECT_DIR$/src/JavaAssignmentDay2/vampire_number/VampireNumber.java" />
+        <option value="$PROJECT_DIR$/src/day9/assignment3/solution/PingHost.java" />
+        <option value="$PROJECT_DIR$/src/JavaAssignmentDay2/vampire_number/solution/VampireNumber.java" />
+        <option value="$PROJECT_DIR$/src/day9/assignment2/test/CheckAlphabetsTest.java" />
+        <option value="$PROJECT_DIR$/src/JavaAssignmentDay2/vampire_number/solution/FindVampireNumbers.java" />
+        <option value="$PROJECT_DIR$/src/day9/assignment3/test/PingsTest.java" />
+        <option value="$PROJECT_DIR$/src/day9/assignment1/solution/SearchFile.java" />
+        <option value="$PROJECT_DIR$/src/JavaAssignmentDay2/vampire_number/test/FindVampireNumbersTest.java" />
+        <option value="$PROJECT_DIR$/src/day9/assignment1/test/FindPathTest.java" />
+        <option value="$PROJECT_DIR$/src/day9/assignment1/solution/FindPath.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="64" />
-    <option name="y" value="-11" />
-    <option name="width" value="1303" />
-    <option name="height" value="780" />
+    <option name="x" value="65" />
+    <option name="y" value="-4" />
+    <option name="width" value="1301" />
+    <option name="height" value="772" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -329,6 +208,7 @@
     <panes>
       <pane id="Scope" />
       <pane id="Scratches" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -563,11 +443,63 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="JavaAssignmentDay3" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="question1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Java Assignments Intellij" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Java Assignments Intellij" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="JavaAssignmentDay2" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="vampire_number" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Java Assignments Intellij" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Java Assignments Intellij" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JavaAssignmentDay2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vampire_number" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="solution" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -672,6 +604,62 @@
               <option name="myItemId" value="day9" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assignment4" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Java Assignments Intellij" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Java Assignments Intellij" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="day9" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assignment4" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Java Assignments Intellij" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Java Assignments Intellij" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="day9" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assignment3" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -713,11 +701,33 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="assignment3" />
+              <option name="myItemId" value="assignment2" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="solution" />
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Java Assignments Intellij" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Java Assignments Intellij" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="day9" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assignment2" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -740,6 +750,10 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="assignment1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -927,7 +941,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -941,24 +954,24 @@
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="JavaAssignmentDay2.vampire_number.test" />
       <recent name="JavaAssignmentDay5.strings_problem.test" />
       <recent name="day9.assignment4.test" />
       <recent name="day9.assignment3.test" />
       <recent name="day9.assignment1.test" />
-      <recent name="day9.assignment2.test" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/JavaAssignmentDay8/char_counter" />
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/src/JavaAssignmentDay8/char_counter/JavaAssignmentDay8/char_counter" />
+      <recent name="$PROJECT_DIR$/src/JavaAssignmentDay8" />
     </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
       <recent name="day9.assignment2.CheckAlphabets" />
       <recent name="groovy.util.GroovyTestCase" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$" />
-      <recent name="$PROJECT_DIR$/src/JavaAssignmentDay8/char_counter/JavaAssignmentDay8/char_counter" />
-      <recent name="$PROJECT_DIR$/src/JavaAssignmentDay8" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/JavaAssignmentDay8/char_counter" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -973,21 +986,21 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.CharCounter">
-    <configuration default="false" name="RegexTest.checkPattern7" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.SearchFile">
+    <configuration default="false" name="FindVampireNumbersTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="JavaAssignmentDay5.strings_problem.test.*" />
+          <option name="PATTERN" value="JavaAssignmentDay2.vampire_number.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <module name="JavaAssignments" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="JavaAssignmentDay5.strings_problem.test" />
-      <option name="MAIN_CLASS_NAME" value="JavaAssignmentDay5.strings_problem.test.RegexTest" />
-      <option name="METHOD_NAME" value="checkPattern7" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="PACKAGE_NAME" value="JavaAssignmentDay2.vampire_number.test" />
+      <option name="MAIN_CLASS_NAME" value="JavaAssignmentDay2.vampire_number.test.FindVampireNumbersTest" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
@@ -1000,40 +1013,14 @@
       <patterns />
       <method />
     </configuration>
-    <configuration default="false" name="RegexTest.checkPattern8" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="VampireNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="JavaAssignmentDay5.strings_problem.test.*" />
+          <option name="PATTERN" value="JavaAssignmentDay2.vampire_number.solution.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <module name="JavaAssignments" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="JavaAssignmentDay5.strings_problem.test" />
-      <option name="MAIN_CLASS_NAME" value="JavaAssignmentDay5.strings_problem.test.RegexTest" />
-      <option name="METHOD_NAME" value="checkPattern8" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-      <method />
-    </configuration>
-    <configuration default="false" name="TestMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="JavaAssignmentDay7.slist.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="JavaAssignmentDay7.slist.TestMain" />
+      <option name="MAIN_CLASS_NAME" value="JavaAssignmentDay2.vampire_number.solution.VampireNumbers" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -1046,34 +1033,66 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="CharCounter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="FindVampireNumbersTest.generateTest1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="JavaAssignmentDay8.char_counter.*" />
+          <option name="PATTERN" value="JavaAssignmentDay2.vampire_number.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="JavaAssignmentDay8.char_counter.CharCounter" />
-      <option name="VM_PARAMETERS" value="" />
-      <option name="PROGRAM_PARAMETERS" value="TextFile.txt" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <module name="JavaAssignments" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="PACKAGE_NAME" value="JavaAssignmentDay2.vampire_number.test" />
+      <option name="MAIN_CLASS_NAME" value="JavaAssignmentDay2.vampire_number.test.FindVampireNumbersTest" />
+      <option name="METHOD_NAME" value="generateTest1" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="JavaAssignments" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
       <envs />
+      <patterns />
       <method />
     </configuration>
-    <configuration default="false" name="Question2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="FindVampireNumbersTest.getCount" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="JavaAssignmentDay3.question2.*" />
+          <option name="PATTERN" value="JavaAssignmentDay2.vampire_number.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="JavaAssignmentDay3.question2.Question2" />
+      <module name="JavaAssignments" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="JavaAssignmentDay2.vampire_number.test" />
+      <option name="MAIN_CLASS_NAME" value="JavaAssignmentDay2.vampire_number.test.FindVampireNumbersTest" />
+      <option name="METHOD_NAME" value="getCount" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="false" name="SearchFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="day9.assignment1.solution.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="day9.assignment1.solution.SearchFile" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -1334,19 +1353,19 @@
     <list size="7">
       <item index="0" class="java.lang.String" itemvalue="JUnit.All in JavaAssignments" />
       <item index="1" class="java.lang.String" itemvalue="Application.PingHost" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.RegexTest.checkPattern7" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.RegexTest.checkPattern8" />
-      <item index="4" class="java.lang.String" itemvalue="Application.TestMain" />
-      <item index="5" class="java.lang.String" itemvalue="Application.CharCounter" />
-      <item index="6" class="java.lang.String" itemvalue="Application.Question2" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.FindVampireNumbersTest" />
+      <item index="3" class="java.lang.String" itemvalue="Application.VampireNumbers" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.FindVampireNumbersTest.generateTest1" />
+      <item index="5" class="java.lang.String" itemvalue="JUnit.FindVampireNumbersTest.getCount" />
+      <item index="6" class="java.lang.String" itemvalue="Application.SearchFile" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.CharCounter" />
-        <item index="1" class="java.lang.String" itemvalue="Application.TestMain" />
-        <item index="2" class="java.lang.String" itemvalue="Application.Question2" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.RegexTest.checkPattern8" />
-        <item index="4" class="java.lang.String" itemvalue="JUnit.RegexTest.checkPattern7" />
+        <item index="0" class="java.lang.String" itemvalue="Application.SearchFile" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.FindVampireNumbersTest.getCount" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.FindVampireNumbersTest.generateTest1" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.FindVampireNumbersTest" />
+        <item index="4" class="java.lang.String" itemvalue="Application.VampireNumbers" />
       </list>
     </recent_temporary>
   </component>
@@ -1427,79 +1446,106 @@
       <option name="project" value="LOCAL" />
       <updated>1499926462911</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="check">
+      <created>1499935400411</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1499935400411</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="All_in_JavaAssignments - 2017.07.13 at 04h 47m 33s.xml">
-      <configuration name="All in JavaAssignments" configurationId="JUnit" />
+    <history-entry file="CheckAlphabetsTest - 2017.07.13 at 16h 19m 45s.xml">
+      <configuration name="CheckAlphabetsTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="All_in_JavaAssignments - 2017.07.13 at 04h 48m 26s.xml">
-      <configuration name="All in JavaAssignments" configurationId="JUnit" />
+    <history-entry file="CheckAlphabetsTest - 2017.07.13 at 16h 20m 04s.xml">
+      <configuration name="CheckAlphabetsTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="KYCFillingTest_generateFormDateRange - 2017.07.13 at 01h 56m 08s.xml">
-      <configuration name="KYCFillingTest.generateFormDateRange" configurationId="JUnit" />
+    <history-entry file="FindVampireNumbersTest - 2017.07.13 at 16h 18m 21s.xml">
+      <configuration name="FindVampireNumbersTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="KYCFillingTest_generateFormDateRange - 2017.07.13 at 01h 57m 04s.xml">
-      <configuration name="KYCFillingTest.generateFormDateRange" configurationId="JUnit" />
+    <history-entry file="FindVampireNumbersTest - 2017.07.13 at 16h 22m 14s.xml">
+      <configuration name="FindVampireNumbersTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="KYCFillingTest_generateFormDateRange - 2017.07.13 at 01h 59m 21s.xml">
-      <configuration name="KYCFillingTest.generateFormDateRange" configurationId="JUnit" />
+    <history-entry file="FindVampireNumbersTest - 2017.07.13 at 16h 27m 10s.xml">
+      <configuration name="FindVampireNumbersTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="RegexTest - 2017.07.13 at 03h 39m 58s.xml">
-      <configuration name="RegexTest" configurationId="JUnit" />
+    <history-entry file="FindVampireNumbersTest_generateTest - 2017.07.13 at 16h 16m 49s.xml">
+      <configuration name="FindVampireNumbersTest.generateTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="RegexTest_checkPattern7 - 2017.07.13 at 03h 40m 32s.xml">
-      <configuration name="RegexTest.checkPattern7" configurationId="JUnit" />
+    <history-entry file="FindVampireNumbersTest_generateTest1 - 2017.07.13 at 16h 27m 55s.xml">
+      <configuration name="FindVampireNumbersTest.generateTest1" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="RegexTest_checkPattern7 - 2017.07.13 at 03h 41m 21s.xml">
-      <configuration name="RegexTest.checkPattern7" configurationId="JUnit" />
+    <history-entry file="FindVampireNumbersTest_getCount - 2017.07.13 at 16h 28m 51s.xml">
+      <configuration name="FindVampireNumbersTest.getCount" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="RegexTest_checkPattern7 - 2017.07.13 at 03h 41m 40s.xml">
-      <configuration name="RegexTest.checkPattern7" configurationId="JUnit" />
+    <history-entry file="PingsTest - 2017.07.13 at 16h 20m 10s.xml">
+      <configuration name="PingsTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="RegexTest_checkPattern8 - 2017.07.13 at 03h 42m 04s.xml">
-      <configuration name="RegexTest.checkPattern8" configurationId="JUnit" />
+    <history-entry file="PingsTest - 2017.07.13 at 16h 22m 26s.xml">
+      <configuration name="PingsTest" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="64" y="-11" width="1303" height="780" extended-state="6" />
+    <frame x="65" y="-4" width="1301" height="772" extended-state="6" />
     <layout>
-      <window_info id="SVN Repositories" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32972136" sideWeight="0.49721116" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29411766" sideWeight="0.47171316" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29411766" sideWeight="0.4685259" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30401236" sideWeight="0.5282869" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29411766" sideWeight="0.5314741" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30401236" sideWeight="0.47171316" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.3287037" sideWeight="0.4812749" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30246913" sideWeight="0.4685259" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3287037" sideWeight="0.4812749" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31838566" sideWeight="0.49577248" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28286853" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1808765" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3271605" sideWeight="0.49721116" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24940239" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3978328" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
+      <window_info id="SVN Repositories" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32972136" sideWeight="0.49721116" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24980783" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Thumbnails" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32884902" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32817337" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
+        <entry key="EXTERNAL /home/zemoso/Desktop/Intellij Assignments">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
         <entry key="MAIN">
           <value>
             <State>
@@ -1539,7 +1585,8 @@
     <MESSAGE value="modified" />
     <MESSAGE value="assignment4" />
     <MESSAGE value="all assignments" />
-    <option name="LAST_COMMIT_MESSAGE" value="all assignments" />
+    <MESSAGE value="check" />
+    <option name="LAST_COMMIT_MESSAGE" value="check" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1560,9 +1607,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/check/src/check/kycf/KYCDateRange.java" />
-    <entry file="file://$PROJECT_DIR$/src/day9/assignment4/test/KYCTest.java" />
-    <entry file="file://$PROJECT_DIR$/Vampire Numbers/src/vampire_numbers/solution/FindVampireNumbers.java" />
     <entry file="file://$PROJECT_DIR$/src/vampire_numbers/solution/FindVampireNumbers.java" />
     <entry file="file://$PROJECT_DIR$/src/vampire_numbers/test/FindVampireNumbersTest.java" />
     <entry file="file://$PROJECT_DIR$/src/vampire_numbers/solution/VampireNumbers.java" />
@@ -1570,34 +1614,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="36">
           <caret line="7" column="22" lean-forward="false" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/day9/assignment3/test/PingsTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="37" column="0" lean-forward="false" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/day9/assignment1/test/FindPathTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="130">
-          <caret line="54" column="19" lean-forward="false" selection-start-line="54" selection-start-column="19" selection-end-line="54" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/day9/assignment3/solution/PingHost.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="13" column="7" lean-forward="false" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/day9/assignment2/test/CheckAlphabetsTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="3" column="22" lean-forward="false" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
         </state>
       </provider>
     </entry>
@@ -1622,21 +1638,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/day9/assignment4/test/KYCFillingTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="14" column="12" lean-forward="false" selection-start-line="14" selection-start-column="12" selection-end-line="14" selection-end-column="12" />
-          <caret line="15" column="12" lean-forward="false" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
-          <caret line="16" column="12" lean-forward="false" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="12" />
-          <caret line="17" column="12" lean-forward="false" selection-start-line="17" selection-start-column="12" selection-end-line="17" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/JavaAssignmentDay2/question2/Question2.java" />
     <entry file="file://$PROJECT_DIR$/src/default_initialization_assignment/shruti/assignment/main/Main.java" />
     <entry file="file://$PROJECT_DIR$/src/JavaAssignmentDay2/question3/Question3.java" />
     <entry file="file://$PROJECT_DIR$/src/JavaAssignmentDay2/question4/Question4.java" />
-    <entry file="file://$PROJECT_DIR$/src/JavaAssignmentDay2/vampire_number/VampireNumber.java" />
+    <entry file="file://$PROJECT_DIR$/src/JavaAssignmentDay2/vampire_number/solution/VampireNumbers.java" />
     <entry file="file://$PROJECT_DIR$/src/default_initialization_assignment/shruti/assignment/data/Data.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-108">
@@ -1707,26 +1713,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/day9/assignment1/solution/SearchFile.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="113">
-          <caret line="36" column="0" lean-forward="false" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/JavaAssignmentDay2/question2/Question2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-90">
           <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/day9/assignment1/solution/FindPath.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="383">
-          <caret line="40" column="45" lean-forward="false" selection-start-line="40" selection-start-column="45" selection-end-line="40" selection-end-column="45" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1790,9 +1780,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
           <caret line="21" column="8" lean-forward="false" selection-start-line="21" selection-start-column="8" selection-end-line="21" selection-end-column="8" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1808,7 +1796,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="558">
           <caret line="31" column="0" lean-forward="false" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="e#1253#1254#0" expanded="false" />
+            <element signature="e#1302#1303#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1817,19 +1808,26 @@
         <state relative-caret-position="90">
           <caret line="5" column="2" lean-forward="false" selection-start-line="5" selection-start-column="2" selection-end-line="5" selection-end-column="2" />
           <folding>
-            <element signature="e#950#951#0" expanded="true" />
-            <element signature="e#999#1000#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/JavaAssignmentDay2/vampire_number/VampireNumber.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1008">
-          <caret line="57" column="4" lean-forward="false" selection-start-line="57" selection-start-column="4" selection-end-line="57" selection-end-column="4" />
-          <folding>
-            <element signature="e#1946#1947#0" expanded="true" />
-            <element signature="e#1976#1977#0" expanded="true" />
+            <element signature="e#512#513#0" expanded="false" />
+            <element signature="e#561#562#0" expanded="false" />
+            <element signature="e#585#586#0" expanded="false" />
+            <element signature="e#634#635#0" expanded="false" />
+            <element signature="e#658#659#0" expanded="false" />
+            <element signature="e#707#708#0" expanded="false" />
+            <element signature="e#731#732#0" expanded="false" />
+            <element signature="e#780#781#0" expanded="false" />
+            <element signature="e#804#805#0" expanded="false" />
+            <element signature="e#853#854#0" expanded="false" />
+            <element signature="e#877#878#0" expanded="false" />
+            <element signature="e#926#927#0" expanded="false" />
+            <element signature="e#1047#1048#0" expanded="false" />
+            <element signature="e#1065#1066#0" expanded="false" />
+            <element signature="e#1112#1113#0" expanded="false" />
+            <element signature="e#1130#1131#0" expanded="false" />
+            <element signature="e#1177#1178#0" expanded="false" />
+            <element signature="e#1195#1196#0" expanded="false" />
+            <element signature="e#1731#1732#0" expanded="false" />
+            <element signature="e#1780#1781#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1862,16 +1860,137 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="576">
           <caret line="35" column="6" lean-forward="false" selection-start-line="35" selection-start-column="6" selection-end-line="35" selection-end-column="6" />
-          <folding />
+          <folding>
+            <element signature="e#0#1666#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/JavaAssignmentDay8/char_counter/CharCounter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="21" column="14" lean-forward="false" selection-start-line="21" selection-start-column="14" selection-end-line="21" selection-end-column="14" />
+        <state relative-caret-position="126">
+          <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/out/production/JavaAssignments/JavaAssignmentDay7/slist/SList.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" column="6" lean-forward="false" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
+          <folding>
+            <element signature="e#0#778#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/day9/assignment3/solution/PingHost.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="11" column="3" lean-forward="false" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="3" />
+          <folding>
+            <element signature="e#0#1122#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/day9/assignment4/test/KYCFillingTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="14" column="12" lean-forward="false" selection-start-line="14" selection-start-column="12" selection-end-line="14" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaAssignmentDay2/vampire_number/solution/VampireNumbers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" column="3" lean-forward="false" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaAssignmentDay2/vampire_number/solution/FindVampireNumbers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="468">
+          <caret line="26" column="25" lean-forward="true" selection-start-line="26" selection-start-column="25" selection-end-line="26" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/day9/assignment3/test/PingsTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="14" column="24" lean-forward="false" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/day9/assignment2/test/CheckAlphabetsTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="21" column="15" lean-forward="false" selection-start-line="21" selection-start-column="15" selection-end-line="21" selection-end-column="15" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#402#403#0" expanded="true" />
+            <element signature="e#445#446#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/day9/assignment1/solution/SearchFile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#1603#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaAssignmentDay2/vampire_number/test/FindVampireNumbersTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/day9/assignment1/test/FindPathTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#500#501#0" expanded="true" />
+            <element signature="e#560#561#0" expanded="true" />
+            <element signature="e#712#713#0" expanded="true" />
+            <element signature="e#770#771#0" expanded="true" />
+            <element signature="e#925#926#0" expanded="true" />
+            <element signature="e#984#985#0" expanded="true" />
+            <element signature="e#1028#1029#0" expanded="true" />
+            <element signature="e#1084#1085#0" expanded="true" />
+            <element signature="e#1128#1129#0" expanded="true" />
+            <element signature="e#1192#1193#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/day9/assignment1/solution/FindPath.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="219">
+          <caret line="53" column="9" lean-forward="true" selection-start-line="53" selection-start-column="9" selection-end-line="53" selection-end-column="9" />
+          <folding>
+            <element signature="e#1962#1963#0" expanded="true" />
+            <element signature="e#1998#1999#0" expanded="true" />
           </folding>
         </state>
       </provider>

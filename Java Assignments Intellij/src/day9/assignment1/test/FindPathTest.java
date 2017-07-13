@@ -4,12 +4,8 @@ import day9.assignment1.solution.FindPath;
 import org.junit.After;
 import org.junit.Before;
 import org.junit.Test;
-
 import static org.junit.Assert.*;
 
-/**
- * Created by zemoso on 12/7/17.
- */
 public class FindPathTest {
     private  FindPath p;
     @Before
@@ -18,12 +14,12 @@ public class FindPathTest {
     }
     @After
     public void print(){
-        System.out.println(p.getResult());
+        System.out.println(p.getmResultArray());
     }
+    //Multiple tests as new object required for every search.
     @Test
     public void findFilesTest1(){
         assertTrue(p.findFiles(".*\\.java","/home"));
-        //print();
     }
     @Test
     public void findFilesTest2(){

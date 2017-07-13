@@ -11,17 +11,16 @@ import java.util.regex.PatternSyntaxException;
  */
 public class FindPath {
 
-    private List<File> result=new ArrayList<>();
+    private List<File> mResultArray =new ArrayList<>();
 
     /**
-     * getter function to get the result that is list of all matching files
+     * getter function to get the mResultArray that is list of all matching files
      * @return Returns list of all matching files.
      */
-    public List<File> getResult(){
-        return result;
+    public List<File> getmResultArray(){
+        return mResultArray;
     }
     /**
-     *
      * Prints the complete path if file matching regex is found. It searches in all directories and
      * subdirectories recursively.
      * @param rgx The regular expression that has to be matched
@@ -37,17 +36,11 @@ public class FindPath {
         try {
             File home = new File(directory);
             File[] fileslist = home.listFiles();
-            if (fileslist.length != 0) {
+            if (fileslist!=null) {
                 for (File file : fileslist) {
                     if (file.isFile()) {
-                        //                    Pattern p= Pattern.compile(rgx);
-                        //                    Matcher m=p.matcher(file.getName());
-                        //                    if(m.matches()) {
-                        //                        result.add(file);
-                        //                    }
                         if (file.getName().matches(rgx)) {
-                            result.add(file);
-
+                            mResultArray.add(file);
                         }
                         //System.out.println(file);
                     } else if (file.isDirectory()) {
@@ -59,6 +52,10 @@ public class FindPath {
         }catch(NullPointerException e){
             System.out.println("Invalid Directory Name");
         }
-        return (result.size()>0);
+        return (mResultArray.size()>0);
+    }
+
+    public void clear() {
+        mResultArray.clear();
     }
 }
