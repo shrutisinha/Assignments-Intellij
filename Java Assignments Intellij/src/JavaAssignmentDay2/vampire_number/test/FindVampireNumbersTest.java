@@ -28,13 +28,18 @@ public class FindVampireNumbersTest {
     public void getCount(){
         mDigits.generate(mVampList,1);
         assertEquals(mDigits.getCount(),0);
+        mDigits.clearCount();
         mDigits.generate(mVampList,2);
         assertEquals(mDigits.getCount(),0);
+        mDigits.clearCount();
         mDigits.generate(mVampList,0);
         assertEquals(mDigits.getCount(),0);
+        mDigits.clearCount();
         mDigits.generate(mVampList,4);
         assertEquals(mDigits.getCount(),7);
+        mDigits.clearCount();
         mDigits.generate(mVampList,5);
         assertEquals(mDigits.getCount(),7);
+        mDigits.clearCount();
     }
 }

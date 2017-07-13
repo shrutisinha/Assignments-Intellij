@@ -38,8 +38,10 @@ public  class FindVampireNumbers {
     }
     public int getCount(){
         int localCount= mCount;
-        mCount =0;
         return(localCount);
+    }
+    public void clearCount(){
+        mCount =0;
     }
 
 }
