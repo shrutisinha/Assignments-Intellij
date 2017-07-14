@@ -7,7 +7,9 @@ import java.util.Collections;
 public  class FindVampireNumbers {
     private int mCount =0;
     public boolean sameChars(String a, String b) {
-        if(a==null || b==null)return false;
+        if(a==null || b==null){
+            return false;
+        }
         char[] first = a.toCharArray();
         char[] second = b.toCharArray();
         Arrays.sort(first);
@@ -37,8 +39,7 @@ public  class FindVampireNumbers {
         Collections.sort(vamp);
     }
     public int getCount(){
-        int localCount= mCount;
-        return(localCount);
+        return mCount;
     }
     public void clearCount(){
         mCount =0;

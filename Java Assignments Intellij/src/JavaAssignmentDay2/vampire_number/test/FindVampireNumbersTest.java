@@ -16,11 +16,11 @@ public class FindVampireNumbersTest {
     }
     @Test
     public void sameCharsTest1(){
-        assertTrue(mDigits.sameChars("abc","abc"));
-        assertFalse(mDigits.sameChars(null,null));
-        assertTrue(mDigits.sameChars("",""));
-        assertTrue(mDigits.sameChars("aabdc","cabad"));
-        assertFalse(mDigits.sameChars("abc","bcd"));
+        assertTrue("Testing for exactly the same strings", mDigits.sameChars("abc","abc"));
+        assertFalse("Null checks", mDigits.sameChars(null,null));
+        assertTrue("Checks for empty strings", mDigits.sameChars("",""));
+        assertTrue("Checks for same chars in jumbled order", mDigits.sameChars("aabdc","cabad"));
+        assertFalse("Checks for different chars", mDigits.sameChars("abc","bcd"));
     }
 
 
