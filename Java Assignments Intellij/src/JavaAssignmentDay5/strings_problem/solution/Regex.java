@@ -13,7 +13,9 @@ public class Regex{
 	*@return True if str starts with Capital Letter and ends in period.
 	*/
 	public boolean checkPattern(String str){
-		if(str==null)return  false;
+		if(str==null){
+			return  false;
+		}
 		String rgx = "^[A-Z].*[\\.]$";
 		Pattern p = Pattern.compile(rgx);
 		Matcher m = p.matcher(str);
