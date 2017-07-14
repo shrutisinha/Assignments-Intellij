@@ -32,15 +32,17 @@ public class SearchFile {
             s = br.readLine();
             if (s.equals("exit"))break;
             char separator = File.separatorChar;
-            String directory=separator+"home";
+            String directory=separator+System.getProperty("user.home");
             found=path.findFiles(s, directory);
             List<File> filesearches;
             filesearches=path.getmResultArray();
             if(!found){
                 System.out.println("No result found!");
             }
-            for(File file:filesearches){
-                System.out.println("Found:  "+file);
+            else{
+                for(File file:filesearches){
+                    System.out.println("Found:  "+file);
+                }
             }
             path.clear();
         }
