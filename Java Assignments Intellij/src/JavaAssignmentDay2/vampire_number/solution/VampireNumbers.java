@@ -21,8 +21,9 @@ public class VampireNumbers{
             obj.generate(vamp,n);
             n+=2;
         }
-        while(vamp.size()>100)
+        while(vamp.size()>100){
             vamp.remove(100);
+        }
         System.out.println("The list of first "+vamp.size()+" vampire numbers are:");
         System.out.println(vamp);
         //System.out.println(vamp.size());
