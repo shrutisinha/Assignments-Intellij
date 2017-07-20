@@ -64,6 +64,21 @@ public class TestMain {
 		it.add(null);
 		print("Add: null");
 		print(s);
+		it.add("Papaya");
+		print("Add: Papaya");
+		print(s);
+		it.add(6,"Kiwi");
+		print("Add: Kiwi");
+		print(s);
+        it.add(0,"Octopus");
+        print("Add: Octopus");
+        print(s);
+        it.remove(2);
+        print("Remove: Litchee");
+        print(s);
+        it.remove(0);
+        print("Remove: Octopus");
+        print(s);
 		SList<String> sl=new SList<>();
 	}
 }

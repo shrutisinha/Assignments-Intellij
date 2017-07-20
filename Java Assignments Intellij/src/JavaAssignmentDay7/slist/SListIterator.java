@@ -7,11 +7,13 @@ package JavaAssignmentDay7.slist;
 class SListIterator<T> {
 	//private int count = 0;
 	private Link<T> current;
+	private Link<T> header;
 	/**
 	*This constructor initializes the object to point at the beginning of the list
 	*/
 	SListIterator(Link<T> header) {
-		current = header;
+		this.header=header;
+	    current = header;
 	}
 	private SListIterator(){}
 	/**
@@ -39,10 +41,33 @@ class SListIterator<T> {
 	*@param item Link that has to be added.
 	*/
 	void add(T item) {
-		if(item==null)return;
+		if(item==null){
+		    return;
+        }
 		current.next = new Link<>(item, current.next);
 		current = current.next;
 		//count++;
+	}
+
+	/**
+	 * Insert an item at the specified index in the list.
+	 * @param index Specifies where the item should be inserted
+	 * @param item The item to be inserted.
+	 */
+	void add(int index,T item){
+        if(item==null || index<0){
+            return;
+        }
+	    Link<T> tmp = header;
+        int i;
+	    for(i=0;(i<index) && (tmp.next!=null);i++){
+	        tmp=tmp.next;
+        }
+        if(i+2<=index){
+	        return;
+	        //throw new IndexOutOfBoundsException();
+        }
+        tmp.next = new Link<>(item, tmp.next);
 	}
 	/**Removes next element in the list as pointed by the iterator. If no next element it does nothing
 	*/
@@ -51,6 +76,23 @@ class SListIterator<T> {
 			current.next = current.next.next;
 			//count--;
 		}
+	}
+
+	/**
+	 * Removes element at the specified index from the list
+	 * @param index The index of element that should be removed
+	 */
+	void remove(int index){
+        Link<T> tmp = header;
+        int i;
+        for(i=0;(i<index) && (tmp.next.next!=null);i++){
+            tmp=tmp.next;
+        }
+        if(i+1<=index){
+            return;
+            // throw new IndexOutOfBoundsException();
+        }
+        tmp.next=tmp.next.next;
 	}
 }
 
