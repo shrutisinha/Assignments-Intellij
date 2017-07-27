@@ -28,11 +28,11 @@ This is made singleton since in the whole application only one Runtime environme
 2)java.util.Calendar#getInstance() (http://docs.oracle.com/javase/8/docs/api/java/util/Calendar.html#getInstance--)
 
 
-This method uses the Abstract Factory design pattern as it returns object of Calendar type which is an abstract class.
+This method uses the Factory design pattern as it returns object of Calendar type which is an abstract class.
 The method is made static so that it can be called directly without creating instance of Calendar class.
 
 
-Abstract family is used for creating families of related or dependent objects without specifying their concrete classes. For this reason it’s called factory of factories. This method is responsible for creating object of Gregory, Buddhist or Japanese calendar type and return an instance of abstract class Calendar.
+This method is responsible for creating object of Gregory, Buddhist or Japanese calendar type and return an instance of abstract class Calendar.
 
 
 getInstance() is an overloaded method where the incoming parameters are the timezone and locale. The calender values based on current time are returned for corresponding timezone and locale. If either timezone or locale is not provided, defaults are set for them through overloading.
